@@ -1,4 +1,4 @@
-# Hono minimal project
+# Hono Demo App
 
 This is a minimal project with [Hono](https://github.com/honojs/hono/) for Cloudflare Workers.
 
@@ -14,7 +14,7 @@ This is a minimal project with [Hono](https://github.com/honojs/hono/) for Cloud
 Initialize
 
 ```
-npx create-cloudflare my-app https://github.com/honojs/hono-minimal
+npx create-cloudflare my-app https://github.com/jellydn/hono-demo-app
 ```
 
 Install
@@ -41,18 +41,19 @@ Deploy
 yarn deploy
 ```
 
-## Examples
+## Useful links
 
-See: <https://github.com/honojs/examples>
-
-## For more information
-
-See: <https://honojs.dev>
+- Hono https://honojs.dev
+- Hono examples: https://github.com/honojs/examples
 
 ## Author
 
-Yusuke Wada <https://github.com/yusukebe>
+👤 **Dung Huynh**
 
-## License
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
 
-MIT
+## Show your support
+
+Give a ⭐️ if this project helped you!
