@@ -3,7 +3,7 @@
 exports[`Test the application Should return 200 response 1`] = `"<h1>Hello Hono!</h1>"`;
 
 exports[`Test the application Should return 404 response 1`] = `
-Object {
+{
   "message": "Not Found",
   "ok": false,
 }
