@@ -1,6 +1,8 @@
-# Hono Demo App
+# Hono Demo Starter App
 
 This is a minimal project with [Hono](https://github.com/honojs/hono/) for Cloudflare Workers.
+
+[![ITMan - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]](https://i.ytimg.com/vi/YsjqVvlrXGY/hqdefault.jpg)](https://www.youtube.com/watch?v=YsjqVvlrXGY)
 
 ## Features
 
