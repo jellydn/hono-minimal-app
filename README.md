@@ -8,7 +8,7 @@ This is a minimal project with [Hono](https://github.com/honojs/hono/) for Cloud
 
 - Minimal
 - TypeScript
-- Wrangler to develop and deploy.
+- [Wrangler](https://developers.cloudflare.com/workers/) to develop and deploy.
 - [Jest](https://jestjs.io/ja/) for testing.
 
 ## Usage
@@ -16,7 +16,7 @@ This is a minimal project with [Hono](https://github.com/honojs/hono/) for Cloud
 Initialize
 
 ```
-npx create-cloudflare my-app https://github.com/jellydn/hono-demo-app
+npx create-cloudflare my-app https://github.com/jellydn/hono-minimal-app
 ```
 
 Install
