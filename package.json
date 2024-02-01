@@ -16,7 +16,7 @@
     "@cloudflare/workers-types": "4.20240129.0",
     "@miniflare/r2": "2.14.2",
     "@trivago/prettier-plugin-sort-imports": "4.3.0",
-    "@types/jest": "29.5.11",
+    "@types/jest": "29.5.12",
     "esbuild": "0.20.0",
     "esbuild-jest": "0.5.0",
     "jest": "29.7.0",
