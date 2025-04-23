@@ -13,11 +13,11 @@
     "hono": "4.7.7"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20250422.0",
+    "@cloudflare/workers-types": "4.20250423.0",
     "@miniflare/r2": "2.14.4",
     "@trivago/prettier-plugin-sort-imports": "4.3.0",
     "@types/jest": "29.5.14",
-    "esbuild": "0.25.2",
+    "esbuild": "0.25.3",
     "esbuild-jest": "0.5.0",
     "jest": "29.7.0",
     "jest-environment-wrangler": "0.0.31",
