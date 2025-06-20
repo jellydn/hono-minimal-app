@@ -10,10 +10,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "hono": "4.8.0"
+    "hono": "4.8.1"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20250619.0",
+    "@cloudflare/workers-types": "4.20250620.0",
     "@miniflare/r2": "2.14.4",
     "@trivago/prettier-plugin-sort-imports": "4.3.0",
     "@types/jest": "29.5.14",
