@@ -13,7 +13,7 @@
     "hono": "4.9.7"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20250911.0",
+    "@cloudflare/workers-types": "4.20250913.0",
     "@miniflare/r2": "2.14.4",
     "@trivago/prettier-plugin-sort-imports": "5.2.2",
     "@types/jest": "29.5.14",
@@ -22,6 +22,6 @@
     "jest": "29.7.0",
     "jest-environment-wrangler": "0.0.31",
     "prettier": "3.6.2",
-    "wrangler": "4.35.0"
+    "wrangler": "4.36.0"
   }
 }
