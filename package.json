@@ -13,7 +13,7 @@
     "hono": "4.11.5"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20260123.0",
+    "@cloudflare/workers-types": "4.20260124.0",
     "@miniflare/r2": "2.14.4",
     "@trivago/prettier-plugin-sort-imports": "5.2.2",
     "@types/jest": "29.5.14",
