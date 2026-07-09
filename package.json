@@ -21,7 +21,7 @@
     "esbuild-jest": "0.5.0",
     "jest": "29.7.0",
     "jest-environment-wrangler": "0.0.31",
-    "prettier": "3.9.4",
-    "wrangler": "4.108.0"
+    "prettier": "3.9.5",
+    "wrangler": "4.110.0"
   }
 }
