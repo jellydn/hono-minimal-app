@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "hono": "4.13.0"
+    "hono": "4.13.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20260702.1",
@@ -22,6 +22,6 @@
     "jest": "29.7.0",
     "jest-environment-wrangler": "0.0.31",
     "prettier": "3.9.6",
-    "wrangler": "4.119.0"
+    "wrangler": "4.120.0"
   }
 }
